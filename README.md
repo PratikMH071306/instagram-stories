@@ -1,5 +1,9 @@
-﻿# instagram-stories Clone
+# ✨ Design Course Landing Page — UI Clone
 
-📱 Optimized for Mobile
-Experience the full effect on your phone!
-This UI is crafted to replicate Instagram Stories — for the most authentic look and feel, view it on a mobile device.
+A **modern, stylish, and mobile-friendly** landing page for design courses.  
+**Highlights:**  
+- Responsive design  
+- Clean and minimal UI  
+- Hero section with engaging visuals  
+- Smooth hover effects  
+**Built with HTML & CSS, ready to deploy!**
